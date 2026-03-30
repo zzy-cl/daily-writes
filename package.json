@@ -1,0 +1,17 @@
+{
+  "name": "daily-writes",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": ["frontend", "learning", "notes"],
+  "author": "zzy-cl",
+  "license": "MIT",
+  "description": "每日学习笔记 — 前端进阶之路",
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.17"
+  }
+}
