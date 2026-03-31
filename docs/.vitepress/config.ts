@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'Daily Writes',
   description: '每日学习笔记 — 前端进阶之路',
   lang: 'zh-CN',
+  base: '/daily-writes/',
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
