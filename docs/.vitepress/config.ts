@@ -23,7 +23,7 @@ export default defineConfig({
           text: '2026年4月 — 前端进阶',
           items: [
             { text: '📅 学习总览', link: '/2026-04/' },
-            { text: '04/01 - JavaScript 基础', link: '/2026-04/01-javascript-basics' },
+            { text: '04/01 - JS 执行机制与闭包', link: '/2026-04/01-javascript-basics' },
             { text: '04/02 - 类型转换与作用域', link: '/2026-04/02-type-coercion-scope' },
             { text: '04/03 - 闭包与高阶函数', link: '/2026-04/03-closures-hof' },
             { text: '04/04 - 原型链与继承', link: '/2026-04/04-prototypes-inheritance' },
