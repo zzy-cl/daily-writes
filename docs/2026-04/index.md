@@ -7,35 +7,35 @@
 | 周 | 日期 | 主题 | 状态 |
 |----|------|------|------|
 | W1 | 04/01 | JavaScript 执行机制与闭包 — 作用域链、闭包、this 指向、原型链 | 🟢 今日 |
-| W1 | 04/02 | 类型转换与作用域 | ⏳ 待学 |
-| W1 | 04/03 | 闭包与高阶函数 | ⏳ 待学 |
-| W1 | 04/04 | 原型链与继承 | ⏳ 待学 |
-| W1 | 04/05 | ES6+ 核心特性 | ⏳ 待学 |
-| W1 | 04/06 | 异步编程 Promise | ⏳ 待学 |
-| W1 | 04/07 | async/await 与事件循环 | ⏳ 待学 |
-| W2 | 04/08 | DOM 操作与事件 | ⏳ 待学 |
-| W2 | 04/09 | BOM 与浏览器 API | ⏳ 待学 |
-| W2 | 04/10 | CSS 基础与选择器 | ⏳ 待学 |
-| W2 | 04/11 | 盒模型与定位 | ⏳ 待学 |
-| W2 | 04/12 | Flexbox 布局 | ⏳ 待学 |
-| W2 | 04/13 | Grid 布局 | ⏳ 待学 |
-| W2 | 04/14 | 响应式设计与媒体查询 | ⏳ 待学 |
-| W3 | 04/15 | CSS 动画与过渡 | ⏳ 待学 |
-| W3 | 04/16 | HTML5 语义化 | ⏳ 待学 |
-| W3 | 04/17 | 表单与验证 | ⏳ 待学 |
-| W3 | 04/18 | Web 存储与通信 | ⏳ 待学 |
-| W3 | 04/19 | 性能优化基础 | ⏳ 待学 |
-| W3 | 04/20 | 网络协议与安全 | ⏳ 待学 |
-| W3 | 04/21 | 模块化与打包工具 | ⏳ 待学 |
-| W4 | 04/22 | Vue 3 基础 | ⏳ 待学 |
-| W4 | 04/23 | Vue 3 组合式 API | ⏳ 待学 |
-| W4 | 04/24 | React 基础 | ⏳ 待学 |
-| W4 | 04/25 | React Hooks | ⏳ 待学 |
-| W4 | 04/26 | TypeScript 基础 | ⏳ 待学 |
-| W4 | 04/27 | TypeScript 进阶 | ⏳ 待学 |
-| W4 | 04/28 | Node.js 基础 | ⏳ 待学 |
-| W5 | 04/29 | SSR 与 Nuxt/Next | ⏳ 待学 |
-| W5 | 04/30 | 综合项目与总结 | ⏳ 待学 |
+| W1 | 04/02 | JS 异步与 Promise — Event Loop、手写 Promise、async/await | ⏳ 待学 |
+| W1 | 04/03 | JS 进阶与内存管理 — Map/Set/WeakMap、迭代器、V8 GC | ⏳ 待学 |
+| W1 | 04/04 | TypeScript 核心 — 泛型、interface vs type、类型守卫 | ⏳ 待学 |
+| W1 | 04/05 | TypeScript 进阶 — 条件类型、infer、类型体操 | ⏳ 待学 |
+| W1 | 04/06 | 算法专项 + 数据结构 — 链表、LRU Cache、前缀和 | ⏳ 待学 |
+| W1 | 04/07 | ⭐ 第一周复盘 — 错题整理、口述练习 | ⏳ 待学 |
+| W2 | 04/08 | Vue 3 响应式原理 — Proxy、track/trigger、手写 reactive | ⏳ 待学 |
+| W2 | 04/09 | 编译优化与虚拟 DOM — PatchFlag、HoistStatic、Block Tree | ⏳ 待学 |
+| W2 | 04/10 | Composition API + Pinia — Composables、setup 风格 | ⏳ 待学 |
+| W2 | 04/11 | Vue 3 性能优化 — 虚拟滚动、keep-alive、v-memo | ⏳ 待学 |
+| W2 | 04/12 | SSR 与 Nuxt 3 — 水合、SSR vs SSG vs ISR | ⏳ 待学 |
+| W2 | 04/13 | ⭐ 第二周复盘 — Vue 知识串讲、面试答题框架 | ⏳ 待学 |
+| W3 | 04/14 | ⭐ 第三阶段启动 — React 基础预习、错题回顾 | ⏳ 待学 |
+| W3 | 04/15 | React 核心：Fiber 与 Hooks — 时间切片、闭包陷阱 | ⏳ 待学 |
+| W3 | 04/16 | React 18 新特性 — Concurrent Mode、useTransition | ⏳ 待学 |
+| W3 | 04/17 | RSC + AI Agent 入门 — 服务端组件、Function Calling | ⏳ 待学 |
+| W3 | 04/18 | 状态管理与数据获取 — Redux Toolkit、Zustand、TanStack Query | ⏳ 待学 |
+| W3 | 04/19 | React 性能优化 — memo/useMemo、hydration mismatch | ⏳ 待学 |
+| W3 | 04/20 | Next.js 与系统设计 — App Router、Server Actions、RBAC | ⏳ 待学 |
+| W4 | 04/21 | ⭐ 第四阶段启动 — React 串讲、Vue vs React 对比 | ⏳ 待学 |
+| W4 | 04/22 | 构建工具与工程化 — Vite 原理、Webpack 5、Monorepo | ⏳ 待学 |
+| W4 | 04/23 | 网络协议与安全 — HTTP/2/3、XSS/CSRF、CSP | ⏳ 待学 |
+| W4 | 04/24 | 性能优化全链路 — Web Vitals、加载优化、监控 SDK | ⏳ 待学 |
+| W4 | 04/25 | 前端测试 + AI Agent 进阶 — Vitest、MCP、A2A | ⏳ 待学 |
+| W4 | 04/26 | 微前端与架构设计 — qiankun、Module Federation、JS 沙箱 | ⏳ 待学 |
+| W4 | 04/27 | AI Agent 实战深入 — Prompt Engineering、RAG、LangChain | ⏳ 待学 |
+| W4 | 04/28 | 算法冲刺 + 简历优化 — STAR 法则、行为面试 | ⏳ 待学 |
+| W4 | 04/29 | 全真模拟面试 — 八股速答、系统设计、限时算法 | ⏳ 待学 |
+| W4 | 04/30 | 查漏补缺 + 心态调整 — 知识体系总回顾 | ⏳ 待学 |
 
 ## 学习方法
 
